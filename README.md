@@ -1,6 +1,6 @@
 # Airbnb-Project 
 
-![alt text](https://pbs.twimg.com/profile_images/1347634517519974402/ND0m2Hxn.png/100/100)
+![alt text](https://pbs.twimg.com/profile_images/1347634517519974402/ND0m2Hxn.png/200/200)
 
 ### Overview:
 
