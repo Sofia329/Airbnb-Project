@@ -1,8 +1,8 @@
-<img src="https://pbs.twimg.com/profile_images/1347634517519974402/ND0m2Hxn.png" width="100" height="100">
-
-![alt text](https://pbs.twimg.com/profile_images/1347634517519974402/ND0m2Hxn.png)
-
 # Airbnb-Project 
+
+
+<img src="https://pbs.twimg.com/profile_images/1347634517519974402/ND0m2Hxn.png" width="200" height="200">
+
 
 
 #### Overview:
