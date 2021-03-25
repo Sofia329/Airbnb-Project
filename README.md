@@ -16,7 +16,7 @@ In this project, the purpose is to analyses data from Airbnb rental in Sydney to
 
 
 #### Table of Contents 
-[Data Proprecessing - Overview](#Link)
+[Data Proprecessing](#Overview)
 
 [Exploratory Data Analysis(EDA)](#Link)
 
