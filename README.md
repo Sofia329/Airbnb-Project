@@ -14,6 +14,8 @@ In this project, the purpose is to analyses data from Airbnb rental in Sydney to
 
 
 #### Table of Contents 
+[Data Proprecessing](#Link)
+
 Data Proprocessing
 Exploratory Data Analysis (EDA)
 Feature Engineering 
