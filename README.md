@@ -22,7 +22,5 @@ Model Validation and Evaluation
 
 
 
-'variable'
 
-''' html
-'''
+`variable`
