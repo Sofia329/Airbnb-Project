@@ -1,20 +1,19 @@
 # Airbnb-Project 
-==============================
-£
 
 
-##### Overview:
+
+### Overview:
 
 In this project, the purpose is to analyses data from Airbnb rental in Sydney to provide market advice to hosts, real estate investors, and other stakeholders. We will use the raw dataset to develop a predictive model for the daily prices of Airbnb rentals based on state-of-the-art techniques from statistical learning.
 
-##### Table of Contents 
+### Table of Contents 
 Data Proprocessing
 Exploratory Data Analysis (EDA)
 Feature Engineering 
 Model Building 
 Model Validation and Evaluation 
 
-##### Dataset 
+### Dataset 
 
-
+[I'm an Dataset link](https://www.data.com)
 
