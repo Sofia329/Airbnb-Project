@@ -19,8 +19,8 @@ In this project, the purpose is to analyses data from Airbnb rental in Sydney to
 1.Introduction: write a few paragraphs stating the business problem, summarising your final solution, and highlighting your key insights.  
 2.Data processing and exploratory data analysis: provide key information about the data, discuss potential issues, and highlight interesting facts that are useful for the rest of your analysis. Due to lack your space, you may want to refer to the appendix for most EDA plots.  
 3.Feature engineering.  
-4.Methodology: here you will focus on the two models as outlined above (your rationale for choosing the models and why they make sense for the data, description of how these models are fitted, interpretations of the models in the context of the business problem at hand).  This part is allowed to be more technical than the rest of the report. 
-5.Predictive model validation.  
+4.Methodology: here you will focus on the two models as outlined above (your rationale for choosing the models and why they make sense for the data, description of how these models are fitted, interpretations of the models in the context of the business problem at hand).  This part is allowed to be more technical than the rest of the report.
+5. Predictive model validation.  
 
 
 #### Dataset:
