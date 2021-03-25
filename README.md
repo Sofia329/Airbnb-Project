@@ -16,15 +16,15 @@ In this project, the purpose is to analyses data from Airbnb rental in Sydney to
 
 
 #### Table of Contents 
-[Data Proprecessing](#Link)
+[Data Proprecessing](#https://github.com/Sofia329/Airbnb-Project/blob/main/Airbnb%20Project.ipynb)
 
-[Exploratory Data Analysis(EDA)](#Link)
+[Exploratory Data Analysis(EDA)](#https://github.com/Sofia329/Airbnb-Project/blob/main/Airbnb%20Project.ipynb)
 
-[Feature Engineering](#Link)
+[Feature Engineering](#https://github.com/Sofia329/Airbnb-Project/blob/main/Airbnb%20Project.ipynb)
 
-[Model Building](#Link)
+[Model Building](#https://github.com/Sofia329/Airbnb-Project/blob/main/Airbnb%20Project.ipyn)
 
-[Model Validation and Evaluation](#Link)
+[Model Validation and Evaluation](#https://github.com/Sofia329/Airbnb-Project/blob/main/Airbnb%20Project.ipyn)
 
 
 #### Dataset 
