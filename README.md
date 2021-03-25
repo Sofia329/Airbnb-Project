@@ -27,10 +27,10 @@ In this project, the purpose is to analyses data from Airbnb rental in Sydney to
 
 [Data Proprecessing](#Overview)
 
-[Exploratory Data Analysis(EDA)](#Supervised Learning Requirement)
+[Exploratory Data Analysis(EDA)](#Overview)
 
 
-[Feature Engineering](#Supervised Learning Requirement)
+[Feature Engineering](#Code Outline)
 
 
 [Model Building](#Supervised Learning Requirement)
