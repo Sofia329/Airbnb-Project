@@ -1,12 +1,16 @@
-# ** Airbnb-Project ** 
+# Airbnb-Project 
 
 ![alt text](https://pbs.twimg.com/profile_images/1347634517519974402/ND0m2Hxn.png/200/200)
 
 ### Overview:
 
-In this project, the purpose is to analyses data from Airbnb rental in Sydney to provide market advice to hosts, real estate investors, and other stakeholders. We will use the raw dataset to develop a predictive model for the daily prices of Airbnb rentals based on state-of-the-art techniques from statistical learning.
+In this project, the purpose is to analyses data from Airbnb rental in Sydney to provide market advice to hosts, real estate investors, and other stakeholders.To develop a predictive model for the daily prices of Airbnb rentals based on state-of-the-art techniques from statistical learning.  This model will and allow the company to advise hosts on pricing and to help owners and investors to predict the potential revenue of Airbnb rental 
 
-* To develop a predictive model for the daily prices of Airbnb rentals based on state-of-the-art techniques from statistical learning.  This model will and allow the company to advise hosts on pricing and to help owners and investors to predict the potential revenue of Airbnb rental (which also depends on the occupancy rate)
+### Supervised Learning Requirement 
+
+* Provide the validation (i.e. Public Leaderboard) scores for at least five different  sets  of  predictions,  including  your  final  model
+* At least one of your models should be an advanced nonparametric model (bagging, random forests, boosting, or a model that contains one of these three as a part).
+* Create text-based features as part of feature engineering.  
 
 
 ### Table of Contents 
