@@ -1,6 +1,6 @@
 # Airbnb-Project 
 
-![alt text](https://www.google.com/search?q=airbnb+logo&rlz=1C5CHFA_enAU709AU709&sxsrf=ALeKk00GGot0Mt5xovw0GR1-bzujbzx9GQ:1616664911467&tbm=isch&source=iu&ictx=1&fir=-MOfAtfOxRt0FM%252CtDbaiUd20iz65M%252C_&vet=1&usg=AI4_-kTCfd1vptlXDC_NYlVPpwo5hmgipg&sa=X&ved=2ahUKEwi43pKOksvvAhWt7HMBHasmAlgQ9QF6BAgKEAE&biw=1280&bih=689#imgrc=-MOfAtfOxRt0FM)
+![alt text](https://pbs.twimg.com/profile_images/1347634517519974402/ND0m2Hxn.png)
 
 
 ### Overview:
