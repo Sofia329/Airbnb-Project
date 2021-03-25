@@ -23,20 +23,6 @@ In this project, the purpose is to analyses data from Airbnb rental in Sydney to
 5.Predictive model validation.  
 
 
-#### Table of Contents: 
-
-[Data Proprecessing](#Overview)
-
-[Exploratory Data Analysis(EDA)](#Overview)
-
-[Feature Engineering](#Supervised Learning Requirement)
-
-
-[Model Building](#Supervised Learning Requirement)
-
-
-[Model Validation and Evaluation](#Supervised Learning Requirement)
-
 #### Dataset:
 
 [I'm the Dataset link](https://drive.google.com/drive/folders/1BNznLRF-k_K9NwG7UwZfunQBeJ4eQO4Q?usp=sharing)
