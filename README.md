@@ -14,8 +14,17 @@ In this project, the purpose is to analyses data from Airbnb rental in Sydney to
 * At least one of your models should be an advanced nonparametric model (bagging, random forests, boosting, or a model that contains one of these three as a part).
 * Create text-based features as part of feature engineering.  
 
+#### Code Outline 
+
+1.Introduction: write a few paragraphs stating the business problem, summarising your final solution, and highlighting your key insights.  
+2.Data processing and exploratory data analysis: provide key information about the data, discuss potential issues, and highlight interesting facts that are useful for the rest of your analysis. Due to lack your space, you may want to refer to the appendix for most EDA plots.  
+3.Feature engineering.  
+4.Methodology: here you will focus on the two models as outlined above (your rationale for choosing the models and why they make sense for the data, description of how these models are fitted, interpretations of the models in the context of the business problem at hand).  This part is allowed to be more technical than the rest of the report. 
+5.Predictive model validation.  
+
 
 #### Table of Contents 
+
 [Data Proprecessing](#Overview)
 
 [Exploratory Data Analysis(EDA)](#Supervised Learning Requirement)
