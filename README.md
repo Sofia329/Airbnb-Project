@@ -1,6 +1,6 @@
 # Airbnb-Project 
 
-![alt text](https://pbs.twimg.com/profile_images/1347634517519974402/ND0m2Hxn.png/200/200)
+![alt text](https://pbs.twimg.com/profile_images/1347634517519974402/ND0m2Hxn.png)
 
 
 
@@ -28,7 +28,7 @@ In this project, the purpose is to analyses data from Airbnb rental in Sydney to
 4.Methodology: here you will focus on the two models as outlined above (your rationale for choosing the models and why they make sense for the data, description of how these models are fitted, interpretations of the models in the context of the business problem at hand).  This part is allowed to be more technical than the rest of the report.
 
 
-5. Predictive model validation.  
+5.Predictive model validation.  
 
 
 #### Dataset:
