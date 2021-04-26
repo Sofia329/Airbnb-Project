@@ -1,4 +1,4 @@
-# Airbnb-Project 
+# Project 1: Airbnb-Project 
 
 
 <img src="https://pbs.twimg.com/profile_images/1347634517519974402/ND0m2Hxn.png" width="200" height="200">
@@ -37,11 +37,11 @@ In this project, the purpose is to analyses data from Airbnb rental in Sydney to
 [I'm the Dataset link](https://drive.google.com/drive/folders/1BNznLRF-k_K9NwG7UwZfunQBeJ4eQO4Q?usp=sharing)
 
 
-# Times Series Prediction 
+# Project 2 - Times Series Prediction (Unemployment Rate)
 
+#### Overview:
 
-
-Backgroundand DatasetThe unemployment rate is the number of people unemployeddivided by the number ofpeople inthe civilian labor force. The unemployment rate is reported by the relevant government agency in most countries. The unemployment ratecan be used asan importantindicator by the central bank of the country to determine the health of the economy when setting monetary policy. Also investors use unemployment statisticsto plan future operating activities, see https://www.thebalance.com/unemployment-rate-3305744. For this project, we have obtained the historical and current unemployment rates in a country from January 1986 to December 2018. The data have been deliberately added noises to de-identifythe  country. The  dataset UnemploymentRateJan1986-Dec2018.csvcan  be downloaded from the Canvas.The dataset shall contain information of month-year andunemployment rates. Similarly a test dataset  file  of  2019  unemployment  rate,  named UmemploymentRate2019.csvin  the same format, has been hidden from you. They will be used to assess the prediction errors of your  produced  model(s).Your  work  in  this  project  is  to  analyze  the  time  series  of unemployment rates.  
+The unemployment rate is reported by the relevant government agency in most countries. The unemployment ratecan be used asan importantindicator by the central bank of the country to determine the health of the economy when setting monetary policy. Also investors use unemployment statisticsto plan future operating activities, see https://www.thebalance.com/unemployment-rate-3305744. For this project, we have obtained the historical and current unemployment rates in a country from January 1986 to December 2018. The data have been deliberately added noises to de-identifythe  country. The  dataset UnemploymentRateJan1986-Dec2018.csvcan  be downloaded from the Canvas.The dataset shall contain information of month-year andunemployment rates. Similarly a test dataset  file  of  2019  unemployment  rate,  named UmemploymentRate2019.csvin  the same format, has been hidden from you. They will be used to assess the prediction errors of your  produced  model(s).Your  work  in  this  project  is  to  analyze  the  time  series  of unemployment rates.  
 
 
 
