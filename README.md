@@ -41,7 +41,12 @@ In this project, the purpose is to analyses data from Airbnb rental in Sydney to
 
 #### Overview:
 
-The unemployment rate is reported by the relevant government agency in most countries. The unemployment ratecan be used asan importantindicator by the central bank of the country to determine the health of the economy when setting monetary policy. Also investors use unemployment statisticsto plan future operating activities, see https://www.thebalance.com/unemployment-rate-3305744. For this project, we have obtained the historical and current unemployment rates in a country from January 1986 to December 2018. The data have been deliberately added noises to de-identifythe  country. The  dataset UnemploymentRateJan1986-Dec2018.csvcan  be downloaded from the Canvas.The dataset shall contain information of month-year andunemployment rates. Similarly a test dataset  file  of  2019  unemployment  rate,  named UmemploymentRate2019.csvin  the same format, has been hidden from you. They will be used to assess the prediction errors of your  produced  model(s).Your  work  in  this  project  is  to  analyze  the  time  series  of unemployment rates.  
+The umployment rate can be used as an important indicator by the central bank of the county to determine the health of the economy when setting mometary policy. For this project, the historical and current unemployment rates in a country from January 1986 to December 2018 has been obtained.The aim is to use this dataset to predict each month unemployment rate for 2019.
 
+#### Procedures 
 
+1. Data Pre-processing: Conduct initial Analysis over the entire data. Use python to clean up data 
+2. Exploring Time Series: Plot Times Series data and view patterns 
+3. Fitting a model: fitting an appropriate model to the data for predictions. Models Used: Moving Average, Decomposition Method, SARIMA, Deep Neural Network etc.
+4. Exam Result: Compare MSE for each model, adapted DNN for 2019 unemployment rate prediction
 
