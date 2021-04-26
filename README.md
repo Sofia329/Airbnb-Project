@@ -1,8 +1,6 @@
 # Project 1: Airbnb-Project 
 
 
-# <img src="https://pbs.twimg.com/profile_images/1347634517519974402/ND0m2Hxn.png" width="200" height="200">
-
 
 
 #### Overview:
